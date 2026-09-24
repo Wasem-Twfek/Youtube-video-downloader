@@ -51,7 +51,3 @@ FFmpeg is required for operations that need media conversion or stream merging.
 ## Scope and responsible use
 
 This is a desktop utility project. Users are responsible for complying with the terms of service, copyright rules, and access restrictions applicable to the content they download.
-
-## Portfolio context
-
-This is a supporting Python desktop application demonstrating GUI development, background processing, external-tool integration, and error handling.
